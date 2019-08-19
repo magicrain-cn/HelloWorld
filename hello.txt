@@ -1,3 +1,6 @@
 123
 1234
 This is master brc
+b2
+new to merge
+b3
